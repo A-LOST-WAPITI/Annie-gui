@@ -46,4 +46,5 @@ Twitter | <https://twitter.com> | ✓ | | | |
 WGL（重申我只是写了个GUI）在xiaoPC大佬的指导下完成
 ## 更新计划
 没有，这玩意就这烂样子了，想体验Annie全部功能请前去它的项目主页
+
 [^1]:https://github.com/iawia002/annie
